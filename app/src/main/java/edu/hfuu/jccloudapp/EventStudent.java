@@ -1,4 +1,4 @@
-package com.support.android.jccloudapp;
+package edu.hfuu.jccloudapp;
 
 /**
  * Created by mrlgb on 2017/1/2.

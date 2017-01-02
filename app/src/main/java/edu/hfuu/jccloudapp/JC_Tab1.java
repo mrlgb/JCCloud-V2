@@ -1,4 +1,4 @@
-package com.support.android.jccloudapp;
+package edu.hfuu.jccloudapp;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -22,8 +22,8 @@ import java.util.ArrayList;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
+import static edu.hfuu.jccloudapp.R.id.my_recycler_view;
 
-import static com.support.android.jccloudapp.R.id.my_recycler_view;
 
 /**
  * Created by lgb on 21-01-2015.

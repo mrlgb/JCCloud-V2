@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.support.android.jccloudapp;
+package edu.hfuu.jccloudapp;
 
 import android.content.Context;
 import android.content.Intent;

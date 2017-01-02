@@ -1,4 +1,4 @@
-package com.support.android.jccloudapp;
+package edu.hfuu.jccloudapp;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
