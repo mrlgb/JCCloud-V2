@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.support.android.designlibdemo;
+package com.support.android.jccloudapp;
 
 import java.util.Random;
 
